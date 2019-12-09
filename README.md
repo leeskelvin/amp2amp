@@ -1,1 +1,1 @@
-# amp2amp
+# amp-to amp offsets
