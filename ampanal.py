@@ -83,10 +83,18 @@ allres = pd.read_pickle(picklefile)
 # construct per-ccd data
 visres = pd.DataFrame()
 visfix = pd.DataFrame()
+readme = '# Visit ' + str(visit) + '\n'
 for ccd in np.unique(allres[allres.visit == visit].ccd):
 
     # progress
     update_progress("Visit %s" % visit, ccd / (len(np.unique(allres[allres.visit == visit].ccd)) + 1))
+    visdir = outdir + '/v' + f'{visit:07}'
+    outfile = visdir + '/v' + f'{visit:07}' + f'c{ccd:03}' + '.png'
+    outreadme = visdir + '/README.md'
+    if not os.path.exists(visdir):
+        os.makedirs(visdir)
+    if os.path.exists(outreadme):
+        os.remove(outreadme)
 
     # combine ccd amp data
     ccdres = allres[(allres.visit == visit) & (allres.ccd == ccd)]
@@ -168,8 +176,14 @@ for ccd in np.unique(allres[allres.visit == visit].ccd):
     cbim = ax3.imshow(np.flip(fixa,0), cmap=plt.cm.get_cmap('RdYlBu', 13), vmin=-3.25, vmax=3.25)
     cb = fig.colorbar(cbim, ax=ax4, aspect=10)
     cb.ax.tick_params(labelsize = 8)
-    outfile = outdir + '/v' + f'{visit:07}' + f'c{ccd:03}' + '.png'
     plt.savefig(outfile)
+    plt.close()
+
+    # readme
+    readme = readme + '\n### CCD ' + str(ccd) + '\n![](' + os.path.basename(outfile) + ')'
 
 # finish up
 update_progress("Visit %s" % visit, 1)
+text_file = open(outreadme, "w")
+n = text_file.write(readme)
+text_file.close()
