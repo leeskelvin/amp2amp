@@ -16,7 +16,7 @@ A recreation of Eli's initial code, attempting to use the raw horizontal oversca
 
 Construction of per-CCD plots for all visits in Eli's fgcm catalogue. 
 
-## focalplaneplots
+## old
 
-Simple code to construct plots of the entire focal plane for a given visit.
+Old development files.
 
