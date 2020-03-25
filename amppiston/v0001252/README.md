@@ -1,224 +1,224 @@
 # Visit 1252
 
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30cf34370>
+### CCD 0
 ![](v0001252c000.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30c490530>
+### CCD 1
 ![](v0001252c001.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30c4904f0>
+### CCD 2
 ![](v0001252c002.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30d859db0>
+### CCD 3
 ![](v0001252c003.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30d7c45b0>
+### CCD 4
 ![](v0001252c004.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30d7c4bb0>
+### CCD 5
 ![](v0001252c005.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30cd9f130>
+### CCD 6
 ![](v0001252c006.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30d843db0>
+### CCD 7
 ![](v0001252c007.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30bb47670>
+### CCD 8
 ![](v0001252c008.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30bbe3370>
+### CCD 10
 ![](v0001252c010.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30c0c91f0>
+### CCD 11
 ![](v0001252c011.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30c0c9530>
+### CCD 12
 ![](v0001252c012.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30be787b0>
+### CCD 13
 ![](v0001252c013.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30c0c9eb0>
+### CCD 14
 ![](v0001252c014.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30c0c9870>
+### CCD 15
 ![](v0001252c015.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30d1f2430>
+### CCD 16
 ![](v0001252c016.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30d46f3f0>
+### CCD 17
 ![](v0001252c017.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30d631eb0>
+### CCD 18
 ![](v0001252c018.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30d4537b0>
+### CCD 19
 ![](v0001252c019.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30ce8d7b0>
+### CCD 20
 ![](v0001252c020.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30cfb88b0>
+### CCD 21
 ![](v0001252c021.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30cfb8df0>
+### CCD 22
 ![](v0001252c022.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30ca089f0>
+### CCD 23
 ![](v0001252c023.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30d1f2fb0>
+### CCD 24
 ![](v0001252c024.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30cb76db0>
+### CCD 25
 ![](v0001252c025.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30c8207f0>
+### CCD 26
 ![](v0001252c026.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30c3567b0>
+### CCD 27
 ![](v0001252c027.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30c820870>
+### CCD 28
 ![](v0001252c028.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30c831030>
+### CCD 29
 ![](v0001252c029.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30b9f66f0>
+### CCD 30
 ![](v0001252c030.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30b78f630>
+### CCD 31
 ![](v0001252c031.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30b6a1230>
+### CCD 32
 ![](v0001252c032.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30b696af0>
+### CCD 33
 ![](v0001252c033.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30b5b27b0>
+### CCD 34
 ![](v0001252c034.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30b78feb0>
+### CCD 35
 ![](v0001252c035.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30b798630>
+### CCD 36
 ![](v0001252c036.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30b1ebb70>
+### CCD 37
 ![](v0001252c037.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30b1e1670>
+### CCD 38
 ![](v0001252c038.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30b0ade70>
+### CCD 39
 ![](v0001252c039.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa308d84fb0>
+### CCD 40
 ![](v0001252c040.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30ae41770>
+### CCD 41
 ![](v0001252c041.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30ae37a30>
+### CCD 42
 ![](v0001252c042.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa308d7d3f0>
+### CCD 43
 ![](v0001252c043.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30abdb5f0>
+### CCD 44
 ![](v0001252c044.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30abdbe70>
+### CCD 45
 ![](v0001252c045.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30af34670>
+### CCD 46
 ![](v0001252c046.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30aa014b0>
+### CCD 47
 ![](v0001252c047.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30a7a77f0>
+### CCD 48
 ![](v0001252c048.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30a5bedb0>
+### CCD 49
 ![](v0001252c049.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30a89a1f0>
+### CCD 50
 ![](v0001252c050.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30a443e30>
+### CCD 51
 ![](v0001252c051.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30a2715f0>
+### CCD 52
 ![](v0001252c052.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30a175ab0>
+### CCD 53
 ![](v0001252c053.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30a443c30>
+### CCD 54
 ![](v0001252c054.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30a0176f0>
+### CCD 55
 ![](v0001252c055.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa309f17a30>
+### CCD 56
 ![](v0001252c056.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30a1803b0>
+### CCD 57
 ![](v0001252c057.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa309d3feb0>
+### CCD 58
 ![](v0001252c058.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30a017630>
+### CCD 59
 ![](v0001252c059.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa309ae21b0>
+### CCD 60
 ![](v0001252c060.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa3099efa30>
+### CCD 61
 ![](v0001252c061.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa309e383f0>
+### CCD 62
 ![](v0001252c062.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30979f170>
+### CCD 63
 ![](v0001252c063.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa3096ac2f0>
+### CCD 64
 ![](v0001252c064.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa3095bb9f0>
+### CCD 65
 ![](v0001252c065.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa309cd1530>
+### CCD 66
 ![](v0001252c066.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa309ae2b30>
+### CCD 67
 ![](v0001252c067.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30926ae70>
+### CCD 68
 ![](v0001252c068.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30910b6f0>
+### CCD 69
 ![](v0001252c069.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30900f970>
+### CCD 70
 ![](v0001252c070.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa308d07eb0>
+### CCD 71
 ![](v0001252c071.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa308c14f30>
+### CCD 72
 ![](v0001252c072.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30901a3b0>
+### CCD 73
 ![](v0001252c073.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa308a1fb70>
+### CCD 74
 ![](v0001252c074.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa3087ca1b0>
+### CCD 75
 ![](v0001252c075.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa3087cadf0>
+### CCD 76
 ![](v0001252c076.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa3086ce970>
+### CCD 77
 ![](v0001252c077.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa308474af0>
+### CCD 78
 ![](v0001252c078.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa308474f30>
+### CCD 79
 ![](v0001252c079.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa308223630>
+### CCD 80
 ![](v0001252c080.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa308125e70>
+### CCD 81
 ![](v0001252c081.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa3082991b0>
+### CCD 82
 ![](v0001252c082.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa308048e30>
+### CCD 83
 ![](v0001252c083.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa307e55cf0>
+### CCD 84
 ![](v0001252c084.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa307cefaf0>
+### CCD 85
 ![](v0001252c085.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa307ceff30>
+### CCD 86
 ![](v0001252c086.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa307b1dbb0>
+### CCD 87
 ![](v0001252c087.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa307b131b0>
+### CCD 88
 ![](v0001252c088.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa3078c2270>
+### CCD 89
 ![](v0001252c089.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa307c08eb0>
+### CCD 90
 ![](v0001252c090.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa3076d1cf0>
+### CCD 91
 ![](v0001252c091.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa3079ad3b0>
+### CCD 92
 ![](v0001252c092.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa307568eb0>
+### CCD 93
 ![](v0001252c093.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa307398fb0>
+### CCD 94
 ![](v0001252c094.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa307482eb0>
+### CCD 95
 ![](v0001252c095.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa307390d70>
+### CCD 96
 ![](v0001252c096.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30704ea70>
+### CCD 97
 ![](v0001252c097.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa3077c5bf0>
+### CCD 98
 ![](v0001252c098.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa307044df0>
+### CCD 99
 ![](v0001252c099.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa3071385b0>
+### CCD 100
 ![](v0001252c100.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa300afbeb0>
+### CCD 101
 ![](v0001252c101.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa300afb3b0>
+### CCD 102
 ![](v0001252c102.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa300be4af0>
+### CCD 103
 ![](v0001252c103.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa3006a3030>
+### CCD 104
 ![](v0001252c104.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa300719a70>
+### CCD 105
 ![](v0001252c105.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa3005b4630>
+### CCD 106
 ![](v0001252c106.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa3004c83b0>
+### CCD 107
 ![](v0001252c107.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa3003cf8b0>
+### CCD 108
 ![](v0001252c108.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa3002665f0>
+### CCD 109
 ![](v0001252c109.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa30007fd30>
+### CCD 110
 ![](v0001252c110.png)
-### CCD <lsst.afw.image.exposure.exposure.ExposureF object at 0x7fa3004c85f0>
+### CCD 111
 ![](v0001252c111.png)
