@@ -1,3 +1,4 @@
 **/ccd*_data.fits
 **.ipynb_checkpoints
 **.vscode
+**__pycache__
