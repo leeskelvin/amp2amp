@@ -16,7 +16,15 @@ A recreation of Eli's initial code, attempting to use the raw horizontal oversca
 
 Construction of per-CCD plots for all visits in Eli's fgcm catalogue. 
 
+## amppiston: per-amp background subtraction
+
+Proof-of-concept robust per-amp background subtraction.
+
+## amppatcon: amp-to-amp edge minimization
+
+Proof-of-concept robust pattern continuity amp edge minimization.
+
 ## old
 
-Old development files.
+Development files.
 
